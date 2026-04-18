@@ -1,0 +1,8 @@
+[33mcommit 8d55be1caec97242be405ae11f871fa9c7bfb28c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: haijunXue <xuehaijun793g@gmail.com>
+Date:   Sun Apr 19 00:42:52 2026 +0200
+
+    add github actions yaml workflow file change docker compose to no longer use the .env and use version 8.3.3 of pytest
+
+ docker-compose.yaml | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
